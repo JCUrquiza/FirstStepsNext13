@@ -1,9 +1,3 @@
-import type { Metadata } from 'next';
-
-export const meta: Metadata = {
-    title: "Contact",
-    description: 'Contact page'
-}
 
 export default function ContactPage() {
     
